@@ -7,4 +7,4 @@ In this project, you look at the NYC Subway data and figure out if more people r
 
 You will wrangle the NYC subway data, use statistical methods and data visualization to draw an interesting conclusion about the subway dataset that you've analyzed.
 
-IPython Notebook: [Intro to Data Science - NYC Subway](http://nbviewer.ipython.org/github/mralbu/DataAnalystNanodegree/blob/master/IntroDataScience/Intro%20to%20Data%20Science%20-%20Project%20Submission.ipynb)
+IPython Notebook: [Intro to Data Science - NYC Subway](https://github.com/mralbu/Intro-to-Data-Science/blob/master/Intro%20to%20Data%20Science%20-%20Project%20Submission.ipynb)
